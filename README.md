@@ -19,3 +19,11 @@ ScreenShot :
 
 
 ![image](https://github.com/unofficialmohit/ContactManagementSystem/assets/123811704/4a945388-357c-4ab5-9bf4-5af6a9a26404)
+
+
+
+
+Database Schema :
+
+![image](https://github.com/unofficialmohit/ContactManagementSystem/assets/123811704/3bfd3ae6-d1ce-47b4-8553-46989aaa422b)
+
