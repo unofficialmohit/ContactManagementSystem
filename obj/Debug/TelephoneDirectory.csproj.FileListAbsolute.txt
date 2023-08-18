@@ -1,0 +1,15 @@
+C:\Users\ak542\source\repos\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe.config
+C:\Users\ak542\source\repos\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe
+C:\Users\ak542\source\repos\TelephoneDirectory\bin\Debug\TelephoneDirectory.pdb
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.csprojAssemblyReference.cache
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.Form1.resources
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.Properties.Resources.resources
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.GenerateResource.cache
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.exe
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.pdb
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.add.resources
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.search.resources
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.delete.resources
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.update.resources
+C:\Users\ak542\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.info.resources
